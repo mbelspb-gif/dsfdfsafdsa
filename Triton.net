@@ -27,6 +27,7 @@ vless://ed3f447e-1b2b-4d16-a797-151ab1949b93@128.127.181.15:443?encryption=none&
 
 vless://ed3f447e-1b2b-4d16-a797-151ab1949b93@uk.quattro-tech.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=uk.quattro-tech.ru&fp=qq&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#🇬🇧 ⚡️ Великобритания
 
+
 vless://ed3f447e-1b2b-4d16-a797-151ab1949b93@50.7.156.34:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=de.quattro-tech.ru&fp=qq&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#🇩🇪 ⚡️ Германия
 
 vless://ed3f447e-1b2b-0006-a797-151ab1949b93@cloud.quattro-tech.ru:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=cloud.quattro-tech.ru&fp=qq&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#🇪🇸 ⚡️ Испания
@@ -52,7 +53,7 @@ vless://ed3f447e-1b2b-4d16-a797-151ab1949b93@cloud.quattro-tech.ru:443?encryptio
 vless://ed3f447e-1b2b-000e-a797-151ab1949b93@cloud.quattro-tech.ru:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=cloud.quattro-tech.ru&fp=qq&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#🇷🇴 ⭐️ Румыния
 
 vless://ed3f447e-1b2b-4d16-a797-151ab1949b93@85.192.49.141:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=fi.quattro-tech.ru&fp=qq&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#🇫🇮 ⭐️ Финляндия
-
+vless://9c4ebeb0-c40e-464f-bf86-e8cd3d98ef4b@fl05.myxavpn.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=fl05.myxavpn.com&fp=chrome&pbk=OCLtjVdRxsou3429LRfjkDYgiAPs24TSgSeFZpChCEw&sid=d67ec5a8fc40ebea#🇫🇮⚡ Финляндия [02]
 vless://ed3f447e-1b2b-4d16-a797-151ab1949b93@198.16.113.170:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=fr.quattro-tech.ru&fp=qq&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#🇫🇷 ⚡️ Франция
 
 vless://ed3f447e-1b2b-4d16-a797-151ab1949b93@ch.quattro-tech.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=ch.quattro-tech.ru&fp=qq&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#🇨🇭 ⚡️ Швейцария
