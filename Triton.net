@@ -6,7 +6,7 @@
 
 #subscription-userinfo: upload=0; download=0; total=0; expire=25555555560576000
 
-
+vless://00a31b83-d78a-4866-9124-bf80ab961501@usa02.myxavpn.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=usa02.myxavpn.com&fp=chrome&pbk=OCLtjVdRxsou3429LRfjkDYgiAPs24TSgSeFZpChCEw&sid=d67ec5a8fc40ebea#Для бравла и клеш рояля
 vless://ed3f447e-1b2b-4d16-a797-151ab1949b93@217.16.21.178:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=rutube.ru&fp=qq&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#🇸🇪 🎮 ⚡️ LTE - Безлимитный
 
 vless://ed3f447e-1b2b-4d16-a797-151ab1949b93@217.16.22.10:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=max.ru&fp=qq&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#🇪🇪 🎮 ⚡️ LTE - Безлимитный
